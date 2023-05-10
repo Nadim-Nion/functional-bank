@@ -18,6 +18,7 @@ In the previous repository, I made a bank website using HTML5, CSS3, and Vanilla
 ## Live Website
 
 Github Pages: https://nadim-nion.github.io/functional-bank/
+Netlify: https://functional-bank-nion.netlify.app/
 
 ## Deployment
 
